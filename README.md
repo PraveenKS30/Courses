@@ -1,7 +1,9 @@
 # Java :
 
 •	Java Programming For Complete Beginners : https://bit.ly/3uiojOE
+
 •	Java Programming Masterclass covering Java 11 & Java 17 : https://bit.ly/3OVkxCA
+
 •	Java for complete beginners | Learn core java using IntelliJ : https://bit.ly/3ulEpHg
 
 
